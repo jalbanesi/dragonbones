@@ -36,7 +36,7 @@ import starling.rendering.VertexData;
  * Starling 工厂。
  * @version DragonBones 3.0
  */
-@:allow(dragonBones) @:final class StarlingFactory extends BaseFactory
+@:allow(dragonBones) class StarlingFactory extends BaseFactory
 {
 	/**
 	 * @private
